@@ -1,0 +1,14 @@
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\bin\Debug\netcoreapp3.1\WorkFlow.exe
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\bin\Debug\netcoreapp3.1\WorkFlow.deps.json
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\bin\Debug\netcoreapp3.1\WorkFlow.runtimeconfig.json
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\bin\Debug\netcoreapp3.1\WorkFlow.runtimeconfig.dev.json
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\bin\Debug\netcoreapp3.1\WorkFlow.dll
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\bin\Debug\netcoreapp3.1\WorkFlow.pdb
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\obj\Debug\netcoreapp3.1\WorkFlow.csproj.AssemblyReference.cache
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\obj\Debug\netcoreapp3.1\WorkFlow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\obj\Debug\netcoreapp3.1\WorkFlow.AssemblyInfoInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\obj\Debug\netcoreapp3.1\WorkFlow.AssemblyInfo.cs
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\obj\Debug\netcoreapp3.1\WorkFlow.csproj.CoreCompileInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\obj\Debug\netcoreapp3.1\WorkFlow.dll
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\obj\Debug\netcoreapp3.1\WorkFlow.pdb
+E:\Portfolio\C#\C#_Fundamentals\WorkFlow\WorkFlow\WorkFlow\obj\Debug\netcoreapp3.1\WorkFlow.genruntimeconfig.cache

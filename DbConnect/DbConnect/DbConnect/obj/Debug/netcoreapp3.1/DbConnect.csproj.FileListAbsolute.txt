@@ -1,0 +1,14 @@
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\bin\Debug\netcoreapp3.1\DbConnect.exe
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\bin\Debug\netcoreapp3.1\DbConnect.deps.json
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\bin\Debug\netcoreapp3.1\DbConnect.runtimeconfig.json
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\bin\Debug\netcoreapp3.1\DbConnect.runtimeconfig.dev.json
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\bin\Debug\netcoreapp3.1\DbConnect.dll
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\bin\Debug\netcoreapp3.1\DbConnect.pdb
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\obj\Debug\netcoreapp3.1\DbConnect.csproj.AssemblyReference.cache
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\obj\Debug\netcoreapp3.1\DbConnect.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\obj\Debug\netcoreapp3.1\DbConnect.AssemblyInfoInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\obj\Debug\netcoreapp3.1\DbConnect.AssemblyInfo.cs
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\obj\Debug\netcoreapp3.1\DbConnect.csproj.CoreCompileInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\obj\Debug\netcoreapp3.1\DbConnect.dll
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\obj\Debug\netcoreapp3.1\DbConnect.pdb
+E:\Portfolio\C#\C#_Fundamentals\DbConnect\DbConnect\DbConnect\obj\Debug\netcoreapp3.1\DbConnect.genruntimeconfig.cache

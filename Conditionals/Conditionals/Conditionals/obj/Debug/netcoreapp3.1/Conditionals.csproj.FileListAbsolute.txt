@@ -1,0 +1,14 @@
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.exe
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.deps.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.dev.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.dll
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.pdb
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csproj.AssemblyReference.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfoInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfo.cs
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csproj.CoreCompileInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.dll
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.pdb
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.genruntimeconfig.cache

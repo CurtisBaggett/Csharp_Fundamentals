@@ -1,0 +1,14 @@
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.exe
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.deps.json
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.json
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.dev.json
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.dll
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.pdb
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.csproj.AssemblyReference.cache
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfoInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfo.cs
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.csproj.CoreCompileInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.dll
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.pdb
+E:\Portfolio\C#\C#_Fundamentals\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.genruntimeconfig.cache

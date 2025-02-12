@@ -1,0 +1,14 @@
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.exe
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.deps.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.runtimeconfig.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.runtimeconfig.dev.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.dll
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.pdb
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.csproj.AssemblyReference.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.AssemblyInfoInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.AssemblyInfo.cs
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.csproj.CoreCompileInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.dll
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.pdb
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\List_Array\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\obj\Debug\netcoreapp3.1\Text.csproj.AssemblyReference.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\obj\Debug\netcoreapp3.1\Text.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\obj\Debug\netcoreapp3.1\Text.AssemblyInfoInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\obj\Debug\netcoreapp3.1\Text.AssemblyInfo.cs
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\obj\Debug\netcoreapp3.1\Text.csproj.CoreCompileInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\bin\Debug\netcoreapp3.1\Text.exe
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\bin\Debug\netcoreapp3.1\Text.deps.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\bin\Debug\netcoreapp3.1\Text.runtimeconfig.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\bin\Debug\netcoreapp3.1\Text.runtimeconfig.dev.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\bin\Debug\netcoreapp3.1\Text.dll
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\bin\Debug\netcoreapp3.1\Text.pdb
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\obj\Debug\netcoreapp3.1\Text.dll
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\obj\Debug\netcoreapp3.1\Text.pdb
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Text\Text\Text\obj\Debug\netcoreapp3.1\Text.genruntimeconfig.cache

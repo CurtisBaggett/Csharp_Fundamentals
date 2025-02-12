@@ -1,0 +1,14 @@
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.AssemblyReference.cache
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+E:\Portfolio\C#\C#_Fundamentals\StopWatch\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\bin\Debug\netcoreapp3.1\Files.exe
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\bin\Debug\netcoreapp3.1\Files.deps.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\bin\Debug\netcoreapp3.1\Files.runtimeconfig.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\bin\Debug\netcoreapp3.1\Files.runtimeconfig.dev.json
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\bin\Debug\netcoreapp3.1\Files.dll
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\bin\Debug\netcoreapp3.1\Files.pdb
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\obj\Debug\netcoreapp3.1\Files.csproj.AssemblyReference.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\obj\Debug\netcoreapp3.1\Files.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\obj\Debug\netcoreapp3.1\Files.AssemblyInfoInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\obj\Debug\netcoreapp3.1\Files.AssemblyInfo.cs
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\obj\Debug\netcoreapp3.1\Files.csproj.CoreCompileInputs.cache
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\obj\Debug\netcoreapp3.1\Files.dll
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\obj\Debug\netcoreapp3.1\Files.pdb
+E:\Portfolio\C#\C#_Fundamentals\Conditionals\Files\Files\Files\obj\Debug\netcoreapp3.1\Files.genruntimeconfig.cache
